@@ -22,7 +22,7 @@
   <a href = "mailto:kelvinmacena699@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kelvin-silva-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-59ab441b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Macenakelvin/MacenaKelvin/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/MacenaKelvin/MacenaKelvin/blob/main/.github/workflows/cobrinha.yml)
  
 </div>
 
